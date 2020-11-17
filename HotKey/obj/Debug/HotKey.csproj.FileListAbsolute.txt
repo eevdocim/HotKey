@@ -1,0 +1,27 @@
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.Form1.resources
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\bin\Debug\HotKey.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\bin\Debug\HotKey.exe
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\bin\Debug\HotKey.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.exe
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.pdb
+E:\HotKey\HotKey\bin\Debug\HotKey.exe.config
+E:\HotKey\HotKey\obj\Debug\HotKey.exe
+E:\HotKey\HotKey\obj\Debug\HotKey.pdb
+E:\HotKey\HotKey\bin\Debug\HotKey.exe
+E:\HotKey\HotKey\bin\Debug\HotKey.pdb
+E:\HotKey\HotKey\obj\Debug\HotKey.csprojResolveAssemblyReference.cache
+E:\HotKey\HotKey\obj\Debug\HotKey.Form1.resources
+E:\HotKey\HotKey\obj\Debug\HotKey.Properties.Resources.resources
+E:\HotKey\HotKey\obj\Debug\HotKey.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\bin\Debug\am\HotKey.resources.dll
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\bin\Debug\en-AI\HotKey.resources.dll
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.Form1.am.resources
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.Form1.en-AI.resources
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\am\HotKey.resources.dll
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\en-AI\HotKey.resources.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.csproj.CoreCompileInputs.cache
+C:\Users\admin\documents\visual studio 2017\Projects\HotKey\HotKey\obj\Debug\HotKey.csprojResolveAssemblyReference.cache
+F:\win_hotkey\HotKey\obj\Debug\HotKey.exe
+F:\win_hotkey\HotKey\obj\Debug\HotKey.pdb
